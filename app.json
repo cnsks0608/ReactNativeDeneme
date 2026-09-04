@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "employee-management-frontend",
-    "slug": "employee-management-frontend",
+    "name":"reactNativeDeneme",
+    "slug": "reactnativedeneme",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "employeemanagementfrontend",
+    "scheme": "reactnativedeneme",
     "userInterfaceStyle": "automatic",
     "ios": {
       "icon": "./assets/expo.icon"
